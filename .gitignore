@@ -1,1 +1,5 @@
-/ipynb_checkpoints/*
+.ipynb_checkpoints/*
+*.tar.gz
+notMNIST_large/
+notMNIST_small/
+*.pickle
